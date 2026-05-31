@@ -8,4 +8,5 @@ Die folgende Anleitung verwendet die Entwicklungsumgebung PyCharm. Sie können j
 4. Installieren Sie die Entwicklungsumbegung PyCharm auf Ihrem Computer. Link für den Download: https://www.jetbrains.com/pycharm/download/?section=windows Achten Sie dabei darauf, die kostenlose Community Edition zu installieren.
 5. In PyCharm navigieren Sie zu File > Open und dann können Sie zum Projektverzeichnis navigieren, in dem Sie das Projekt entpackt haben und dieses öffnen.
 6. Sie werden nun aufgefordert dem Projekt zu vertrauen und können dann das Projekt im selben oder in einem neuen Fenster öffnen lassen.
-7. Um das Projekt auszuführen, klicken Sie oben rechts auf den Run-Button. Die Bedienoberfläche des Projekts sollte sich nun in einem seperaten Fenster öffnen.
+7. Navigieren Sie zu LoginView.py auf der linken Seite.
+8. Um das Projekt nun auszuführen, klicken Sie oben rechts auf den Run-Button. Die Bedienoberfläche des Projekts sollte sich nun in einem seperaten Fenster öffnen.
